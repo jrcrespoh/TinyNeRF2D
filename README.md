@@ -1,6 +1,7 @@
 ![2D scene](complex.png)
 
 ![2D scene representation](comparison_disk_L6_60K.gif)
+![2D scene representation](comparison_complex_L6_60K.gif)
 # TinyNeRF2D
 This repository contains a Google Colab notebook containing the code used for the final project report Neural Radiance Fields For Lower Dimensions by Jesus Crespo for MIT class 6.819/6.869 Advances in Computer Vision.
 
